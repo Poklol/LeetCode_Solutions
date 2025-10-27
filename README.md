@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Poklol/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Poklol/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Poklol/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Poklol/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Poklol/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Sorting
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Poklol/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Poklol/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
